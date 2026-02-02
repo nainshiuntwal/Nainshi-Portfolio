@@ -135,8 +135,7 @@ const Contact = () => {
       rel="noreferrer"
       className="text-gray-400 hover:text-purple-400 transition"
     >
-      github.com/your-username
-    </a>
+         https://github.com/nainshiuntwal    </a>
   </div>
 </div>
 
